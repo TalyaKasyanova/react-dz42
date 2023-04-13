@@ -7,7 +7,7 @@ function Hero() {
         alt="foto"
         className="hero-img"
         width="50%"
-        height="450px"
+        height="400px"
         src={require("../../images/mit.jpg")}
       />
       <div className="hero-info">
