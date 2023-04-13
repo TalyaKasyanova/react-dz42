@@ -1,0 +1,34 @@
+.header {
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+  height: 60px;
+  background: rgb(71, 58, 156);
+  color: #fff;
+  grid-area: header;
+  justify-content: space-between;
+
+
+  .icons {
+
+    .burger {
+      width: 25px;
+      height: 25px;
+      fill: #fff;
+    }
+
+    .chevron {
+      width: 25px;
+      height: 25px;
+      margin: 0 15px;
+      fill: #fff;
+    }
+
+    .user {
+      width: 25px;
+      height: 25px;
+      margin: 0 20px;
+      fill: #fff;
+    }
+  }
+}
